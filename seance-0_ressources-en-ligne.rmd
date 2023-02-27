@@ -1,5 +1,9 @@
-# R et archéologie : les ressources en ligne
-## Ressources en ligne sur l'usage générique de R
+---
+title: "R et archéologie : les ressources en ligne"
+output: bookdown::html_document2
+---
+
+# Ressources en ligne sur l'usage générique de R
 Voici quelques ressources pour découvrir le fonctionnement général de R et R studio :  
 - [le blog d'Allison Horst](https://external.ink?to=/blog.rstudio.com/2019/11/18/artist-in-residence/)  
 - [Big Book of R](https://external.ink?to=/www.bigbookofr.com/) par Oscar Baruffa  
@@ -10,7 +14,7 @@ Voici quelques ressources pour découvrir le fonctionnement général de R et R 
 - Pour s'aider à utiliser les principaux packages, il existe des fiches aide-mémoire (cheatsheets) mises en lignes sur le [site officiel de Rstudio/Posit](https://external.ink?to=/rstudio.com/resources/cheatsheets/).  
 - Les packages R sont rencensés sur [https://rdocumentation.org/](https://external.ink?to=/rdocumentation.org/).  
 
-## Ressources concernant l'usage de R pour des applications en archéologie
+# Ressources concernant l'usage de R pour des applications en archéologie
 - [Ben Marwick](https://external.ink?to=/rdocumentation.org/github.com/benmarwick) est professeur à l'Université de Washington et est l'un des archéologues les plus actifs dans le développement de pratiques liées à l' "ouverture" des données et à la reproductibilité des analyses et codes sources.  
 A voir notamment 
 [ce powerpoint](https://external.ink?to=/rdocumentation.org/benmarwick.github.io/tidyverse-for-archaeology/tidyverse-for-archaeology.html#1) par B Marwick et le repository associé dans [ctv-archaeology](https://external.ink?to=/rdocumentation.org/github.com/benmarwick/ctv-archaeology#making-maps-and-using-r-as-a-geographical-information-system).  
@@ -29,12 +33,12 @@ Ainsi qu'une [liste des publications dans le domaine de l'archéologie qui inclu
 - [open-archaeo.info](https://external.ink?to=/open-archaeo.info), un répertoire de ressources maintenu par [Zack Batist](https://external.ink?to=/github.com/zackbatist).
 - Le [site web Rchaeology](https://external.ink?to=/rchaeology.github.io/about/) a une [page dédiée aux débutants](https://external.ink?to=/rchaeology.github.io/resources/beginners/).
 - Le package [**swirl**](https://external.ink?to=/swirlstats.com/) a été créé pour aider l'apprentissage de R. Après l'avoir installé et ouvert avec les commandes suivantes il ne reste plus qu'à suivre les instructions directement dans la console de R studio!
-```{r}
+```{r, eval=F, echo=T}
 install.packages("swirl")
 library(swirl)
 ```
 
-## :books: Ressources en français :books:
+# :books: Ressources en français :books:
 
 * [Introduction à R et au tidyverse](https://external.ink?to=/juba.github.io/tidyverse/) par @juba
 * [Logiciel R et programmation](https://external.ink?to=/egallic.fr/Enseignement/R/m1_stat_eco_logiciel_R.pdf) par @3wen

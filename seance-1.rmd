@@ -3,7 +3,7 @@ title: "Séance 1 : Se familiariser avec R"
 output: bookdown::html_document2
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include=F}
 library(here)
 library(tidyverse)
 ```
