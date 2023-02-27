@@ -6,4 +6,4 @@ Ce site contient les tutoriels nécessaires pour suivre le workshop "R pour les 
 [Ressources fr en ligne](seance-0_ressources-en-ligne.html)
 [Séance 1](seance-1.html)
 
-License: [CC BY-NC 4.0](http://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/licenses/by-nc/4.0/)
+License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
