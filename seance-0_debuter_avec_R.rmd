@@ -4,12 +4,15 @@ output: bookdown::html_document2
 ---
 
 # Installer  
-[R pour Mac](https://external.ink?to=/cran.r-project.org/bin/macosx/) ou [R pour Windows](https://external.ink?to=/cran.r-project.org/bin/windows/base/) ou [R pour Linux](https://external.ink?to=/cran.r-project.org/bin/linux/)  
+[R pour Mac](https://external.ink?to=/cran.r-project.org/bin/macosx/)  
+[R pour Windows](https://external.ink?to=/cran.r-project.org/bin/windows/base/)  
+[R pour Linux](https://external.ink?to=/cran.r-project.org/bin/linux/)  
+
 [R studio](https://external.ink?to=/rstudio.com/products/rstudio/download/)
 
 # Pour commencer
-Toujours ouvrir R et Rstudio en même temps. La fenêtre de R peut juste rester en arrière plan, il n'est pas nécessaire d'interagir avec.  
-Pour commencer installons l'environnement de travail. Pour cela il faut installer un certain nombre de packages qui permettent d'utiliser des fonctionnalités particulières, comme cela est évoqué dans [l'introduction du volume 'R for Data Science'](https://external.ink?to=/r4ds.had.co.nz/introduction.html#the-tidyverse).
+R et Rstudio peuvent être ouverts en même temps, mais en réalité il n'est pas nécessaire d'ouvrir R pour travailler sous Rstudio.  
+Pour commencer installons un "environnement de travail" basique. Pour cela il faut installer un certain nombre de packages qui permettent d'utiliser des fonctionnalités particulières, comme cela est évoqué dans [l'introduction du volume 'R for Data Science'](https://external.ink?to=/r4ds.had.co.nz/introduction.html#the-tidyverse).
 
 Avant notre première session de travail, il faudrait installer les packages suivants:
 ```{r, eval=F, echo=T}
@@ -18,7 +21,7 @@ install.packages("knitr")
 install.packages("rmarkdown")
 install.packages("bookdown") # notez les guillements avec la fonction install.packages
 ```
-Pour cela tu dois copier ces commandes telles quelles dans la fenetre haut gauche de R studio et les exécuter une par une en utilisant les touches suivantes :  
+Pour cela, copiez ces commandes telles quelles dans la fenetre haut gauche de R studio et exécutez-les une par une en utilisant les touches suivantes :  
 **CTRL + Entrée** sur PC  
 **Command (or Cmd) &#8984; + ↵ Return** sur mac  
 

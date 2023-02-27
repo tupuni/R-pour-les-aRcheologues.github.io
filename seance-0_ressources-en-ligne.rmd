@@ -1,5 +1,5 @@
 ---
-title: "R et archéologie : les ressources en ligne"
+title: "Les ressources fr en ligne"
 output: bookdown::html_document2
 ---
 
@@ -38,7 +38,7 @@ install.packages("swirl")
 library(swirl)
 ```
 
-# :books: Ressources en français :books:
+# Ressources en français
 
 * [Introduction à R et au tidyverse](https://external.ink?to=/juba.github.io/tidyverse/) par @juba
 * [Logiciel R et programmation](https://external.ink?to=/egallic.fr/Enseignement/R/m1_stat_eco_logiciel_R.pdf) par @3wen
