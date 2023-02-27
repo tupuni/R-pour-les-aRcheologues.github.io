@@ -1,5 +1,5 @@
 ---
-title: "Pour débuter avec R (Documents et instructions pour prendre en main le logiciel)"
+title: "Pour débuter avec R (documents et instructions pour prendre en main le logiciel)"
 output: bookdown::html_document2
 ---
 
