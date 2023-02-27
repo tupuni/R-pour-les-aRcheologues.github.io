@@ -343,7 +343,7 @@ display: none;
 <div id="introduction" class="section level1" number="1">
 <h1><span class="header-section-number">1</span> Introduction</h1>
 <p>Dans cette introduction, nous allons decouvrir les bases du langage de programmation R.<br />
-Tout d’abord, tout le texte précédé par le signe dièse est ce qu’on appelle un commentaire.</p>
+Tout d’abord, tout le texte précédé par le signe # est ce qu’on appelle un commentaire.</p>
 <pre class="r"><code># commentaire</code></pre>
 <p>Ce sont des lignes qui ne seront pas exécutées par le code et qui nous permettrons de décrire les étapes du script.
 Bien commenter son code est très important car cela nous permet de le comprendre facilement méme après des mois et des années sans y avoir travaillé (en théorie !).
@@ -355,7 +355,7 @@ Il s’agit d’un tableau décrivant plusieurs données qualitatives, quantitat
 <h1><span class="header-section-number">2</span> Ouvrir un jeu de données</h1>
 <p>Nous allons commencer par ouvrir le jeu de données <code>Data_exemple</code> en utilisant le bouton <code>Import dataset</code> dans l’onglet <code>Environnement</code> en haut à droite:</p>
 <p>1- Choisir le fichier dans le répertoire avec le bouton <code>browse</code>:</p>
-<p><code>…/GitHub/R-pour-archeologues/data/Data_exemple.xlsx</code></p>
+<p><code>…/R-pour-archeologues/data/Data_exemple.xlsx</code></p>
 <p>2- Dans cette même fenêtre dans la section <code>import options</code> il est possible de spécifier le nom du jeu de données qui sera stocké dans R: appelez le “jdd”.</p>
 <p>Cette procédure permet d’écrire automatiquement le code pour importer un tableau excel.<br />
 Nous verrons ensuite comment importer des données avec une ligne de code directement, ce qui est plus reproductible.</p>
@@ -563,8 +563,6 @@ plot(x = jdd$longueur, y = jdd$largeur,
 ### et on clôture l&#39;écriture de la figure dans le pdf
 
 dev.off()</code></pre>
-<pre><code>## quartz_off_screen 
-##                 2</code></pre>
 <p><strong>FELICITATIONS ! Vous avez fait vos premiers pas sur R !!</strong></p>
 </div>
 
