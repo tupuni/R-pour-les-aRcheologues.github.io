@@ -1,12 +1,15 @@
-Ce site contient les tutoriels nécessaires pour suivre le workshop "R pour les aRchéologues" organisé par Anaïs Vignoles et Aymeric Hermann au sein de l'UMR 8068 (MSH Mondes, Nanterre) en Avril-Mai 2023.  
+#  R pour les aRchéologues
 
-[Débuter avec R](seance-0_debuter_avec_R.html)  
-[Ressources fr en ligne](seance-0_ressources-en-ligne.html)  
+Ce dépôt contient les tutoriels, scripts et données nécessaires pour suivre le workshop "R pour les aRchéologues" organisé par A. Vignoles et A. Hermann au sein de l'UMR 8068 en Avril 2023.
 
-[Séance 1: Se familiariser avec R](seance-1.html)  
+- [Débuter avec R et RStudio](debuter_avec_R.rmd)  
+- [R et archéologie : les ressources en ligne](ressources-en-ligne.rmd)  
 
+- [seance 0 : Pré-requis](seance-0_pre-requis.rmd)
+- [Séance 1 : Se familiariser avec R](seance-1.html)
+- [Séance 2 : Analyser et visualiser un jeu de données semi-quantitatif]()
 
-![image](poster.png)
+![image](figures/poster.png)
 
-
-License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+### License
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
