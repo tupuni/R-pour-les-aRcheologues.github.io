@@ -1,8 +1,9 @@
 #  R pour les aRchéologues
+<base target="_blank">
 
 Ce dépôt contient les tutoriels, scripts et données nécessaires pour suivre le workshop "R pour les aRchéologues" organisé par A. Vignoles et A. Hermann au sein de l'UMR 8068 en Avril 2023.\
 
-- [Débuter avec R et RStudio](debuter_avec_R.html){:target="_blank"}\
+- [Débuter avec R et RStudio](debuter_avec_R.html)\
 - [R et archéologie : les ressources en ligne](ressources-en-ligne.html)\
 - [Pré-requis](seance-0_pre-requis.html)\
 - [Séance 1 : Se familiariser avec R](seance-1.html)\
