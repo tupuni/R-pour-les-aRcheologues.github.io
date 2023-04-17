@@ -4,8 +4,7 @@ Ce dépôt contient les tutoriels, scripts et données nécessaires pour suivre 
 
 - [Débuter avec R et RStudio](debuter_avec_R.rmd)  
 - [R et archéologie : les ressources en ligne](ressources-en-ligne.rmd)  
-
-- [seance 0 : Pré-requis](seance-0_pre-requis.rmd)
+- [Pré-requis](seance-0_pre-requis.rmd)
 - [Séance 1 : Se familiariser avec R](seance-1.html)
 - [Séance 2 : Analyser et visualiser un jeu de données semi-quantitatif]()
 
