@@ -8,6 +8,9 @@ Ce dépôt contient les tutoriels, scripts et données nécessaires pour suivre 
 - [Pré-requis](seance-0_pre-requis.html).  
 - [Séance 1 : Se familiariser avec R](seance-1.html)   
 - [Séance 2 : Analyser et visualiser un jeu de données semi-quantitatif](seance-2.html).  
+- [TPs séances 1 et 2](TP-1-2.html).  
+
+- [Séance "astuces"](seance-astuces.html).  
 
 ![image](poster.png)
 
