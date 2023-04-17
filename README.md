@@ -9,7 +9,7 @@ Ce dépôt contient les tutoriels, scripts et données nécessaires pour suivre 
 - [Séance 1 : Se familiariser avec R](seance-1.html)
 - [Séance 2 : Analyser et visualiser un jeu de données semi-quantitatif]()
 
-![image](figures/poster.png)
+![image](poster.png)
 
 ### License
 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
