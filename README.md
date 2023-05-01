@@ -11,7 +11,6 @@ Ce dépôt contient les tutoriels, scripts et données nécessaires pour suivre 
 - [Séance 3 : Sous-ensembles et visualisation avec tidyverse](seance-3.html).  
 - [TPs séances 1 et 2](TP-1-2.html).  
 - [TPs séance 3](TP-3.html).  
-
 - [Séance "astuces"](seance-astuces.html).  
 
 ![image](poster.png)
