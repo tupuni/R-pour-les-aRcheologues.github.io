@@ -9,6 +9,7 @@ Ce dépôt contient les tutoriels, scripts et données nécessaires pour suivre 
 - [Séance 1 : Se familiariser avec R](seance-1.html)   
 - [Séance 2 : Analyser et visualiser un jeu de données semi-quantitatif](seance-2.html).  
 - [Séance 3 : Sous-ensembles et visualisation avec tidyverse](seance-3.html).  
+- [Séance 4 : Boucles de programmation](seance-4.html).  
 - [TPs séances 1 et 2](TP-1-2.html).  
 - [TPs séance 3](TP-3.html).  
 - [Séance "astuces"](seance-astuces.html).  
